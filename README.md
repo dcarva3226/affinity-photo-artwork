@@ -2,7 +2,7 @@
 Needed a place to start storing artwork I created for my video projects.
 
 ## License
-MIT License
+Proprietary / Custom License
 
 Copyright (c) 2025 Danny Carvajal
 
